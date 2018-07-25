@@ -1,7 +1,5 @@
 using System;
 using Xunit;
-using Isogram;
-
 
 namespace Isogram.Tests
 {
